@@ -1,0 +1,12 @@
+*.cdb
+*.map
+*.asm
+*.cdb
+*.ihx
+*.lst
+*.map
+*.rel
+*.rst
+*.sym
+*.lk
+build
