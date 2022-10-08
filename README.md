@@ -55,3 +55,5 @@ git clone  --recurse-submodules --verbose --remote --progress https://github.com
   && cmake -DCMAKE_TOOLCHAIN_FILE=../Toolchain-sdcc.cmake .. \
   && make all
 ```
+## Useful Links
+https://cmake.org/cmake/help/book/mastering-cmake/chapter/Cross%20Compiling%20With%20CMake.html
